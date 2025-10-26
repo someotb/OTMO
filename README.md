@@ -1,2 +1,2 @@
 # OTMO
-Queuing theory - lab5
+Queuing theory - Reports
