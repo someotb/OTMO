@@ -1,2 +1,2 @@
 # OTMO
-Queuing theory - lab11
+Queuing theory - lab12
